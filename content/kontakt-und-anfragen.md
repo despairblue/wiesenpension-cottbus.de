@@ -1,31 +1,35 @@
 +++
-weight = 40
-draft = false
-title = "Kontakt & Anfragen"
 date = "2017-04-02T23:08:19+02:00"
-
+draft = false
+icon = "phone"
+title = "Kontakt & Anfragen"
+weight = 50
 +++
 
-![](images/kontakt-1.jpg)
+{{< figure
+  class="image"
+  src="/img/kontakt-1.jpg"
+  alt=""
+>}}
 
-### wer telefonieren möchte
+### Wer telefonieren möchte
 
-Tel.: 0355-723650  
-Fax: 0355-58509006  
-oder 0162-9817147
+<a href="tel:0049355723650">Tel.: 0355-723650</a>  
+<a href="tel:004935558509006">Fax: 0355-58509006</a>  
+<a href="tel:00491629817147">oder 0162-9817147</a>  
 
 
-### wer noch gern Briefe schreibt
+### Wer noch gern Briefe schreibt
 
 Wiesenpension  
 Annette Fiedler  
 Sachsendorfer Straße 34  
-03048 Cottbus / OT Ströbitz
+03048 Cottbus / OT Ströbitz  
 
 
-### wer lieber eine E-mail sendet
+### Wer lieber eine E-mail sendet
 
-fiedler.annette@web.de
+<a href="mailto:fiedler.annette@web.de">fiedler.annette@web.de</a>
 
-* Nehmen Sie einfach unverbindlich Kontakt mit uns auf, um weitere Einzelheiten zu besprechen
-* Anregungen und Vorschläge nehmen wir gern entgegen - auch für individuelle Anliegen finden wir eine Lösung
+Nehmen Sie einfach unverbindlich Kontakt mit uns auf, um weitere Einzelheiten zu besprechen.
+Anregungen und Vorschläge nehmen wir gern entgegen - auch für individuelle Anliegen finden wir eine Lösung.
